@@ -183,6 +183,26 @@ Python handles response parsing and validation, time allocation, database operat
 
 This approach combines the flexibility of Generative AI with the consistency of traditional programming logic, making the overall workflow easier to understand and maintain.
 
+## Application Screenshots
+
+### 1. Main Application
+
+The main interface allows users to enter everyday tasks in natural language and select a planning date.
+
+![Main Application](screenshots/01-main-application.png)
+
+### 2. Generated Schedule
+
+The application uses Llama 3.2 to extract tasks, assign priorities, estimate durations and generate a daily schedule.
+
+![Generated Schedule](screenshots/02-generated-schedule.png)
+
+### 3. Dashboard
+
+The dashboard provides an overview of task progress, including total, completed and pending tasks, along with priority distribution.
+
+![Dashboard](screenshots/03-dashboard.png)
+
 ## Possible Limitations
 
 - Task priorities and estimated durations depend on the language model and may not always reflect actual requirements.
