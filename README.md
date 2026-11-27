@@ -229,7 +229,7 @@ Additional scheduling capabilities and improvements are planned.
 
 ## Author
 
-**YOUR NAME**
+**Borugula Muzzammil Alisha**
 
 AI/ML Graduate | Python | Generative AI | Machine Learning
 
